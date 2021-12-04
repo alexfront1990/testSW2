@@ -52,11 +52,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "app_icons/favicon-96x96-seochecker-manifest-004.png"
   },
   {
-    "revision": "1ceebee2c47b8e33610d",
+    "revision": "88f0ef979c8c6d388b78",
     "url": "css/app.e8aa16e2.css"
   },
   {
-    "revision": "f6c6727aa4206a0e70ea",
+    "revision": "f717dbd57d9995d9c92c",
     "url": "css/chunk-vendors.25036cbd.css"
   },
   {
@@ -108,16 +108,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/slide4.3a1e2434.png"
   },
   {
-    "revision": "69e4dbea1f172428008d29ef2cc8fb10",
+    "revision": "b9f62ca88b63822d0c7e137606d785dc",
     "url": "index.html"
   },
   {
-    "revision": "1ceebee2c47b8e33610d",
-    "url": "js/app.b445c6e9.js"
+    "revision": "88f0ef979c8c6d388b78",
+    "url": "js/app.2d18a093.js"
   },
   {
-    "revision": "f6c6727aa4206a0e70ea",
-    "url": "js/chunk-vendors.ed4207f5.js"
+    "revision": "f717dbd57d9995d9c92c",
+    "url": "js/chunk-vendors.e68e5d13.js"
   },
   {
     "revision": "7b81ace48f85d06a7a3e2d15a551f9d1",
